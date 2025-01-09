@@ -1,4 +1,3 @@
 # repodemo
 this is demo repo<br>
-<b>
-this is me tejas kasar</b>
+<b>It's me tejas kasar</b>
